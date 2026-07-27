@@ -161,90 +161,34 @@
 9 + 9 = 18
 9 * 9 = 81
 Opa, e aí mano. Vi aquele filme que você me indicou ontem, o do sci-fi espacial. Cara, que loucura, hein?
-
 Putz, sério? Gostou ou achou perda de tempo? Eu fiquei super dividido, não sei se amei ou se odiei.
-
 Então, a parte visual é sinistra, tipo, 10/10, fotografia absurda. Mas o roteiro... sei lá, senti que eles queriam explicar demais e acabaram não explicando nada. Ficou um buraco enorme no final, tá ligado?
-
 Total! Eu tive a mesma impressão. Parece que o diretor quis dar uma de inteligente, meter uma filosofia profunda e acabou se perdendo no próprio conceito. O final foi muito "toma aqui sua resposta e vaza", não curti.
-
 Né? E aquele plot twist no meio? Eu achei que ia fazer sentido, mas só serviu pra confundir. Enfim, pelo menos a pipoca tava boa. Kkkkkk.
-
 Pelo menos isso! Hahaha. Mas mudando de assunto, aqui em casa a internet tá oscilando muito de novo. Tá um saco. Você tá tendo problema aí também ou sou só eu que tô amaldiçoado pela operadora?
-
 Nossa, aqui tá horrível desde ontem. Eu tava tentando baixar uma atualização de 2GB pro jogo e ela travou quatro vezes. Reiniciei o modem, mudei o cabo, fiz mandinga, e nada. É a operadora, certeza absoluta.
-
 Pois é, toda vez que chove um pouco ou venta, a internet finge que não existe. É incrível a estabilidade desse serviço, né? Uma maravilha.
-
 Pois é, foda. Acho que vou deixar pra baixar de madrugada, que é quando a rede fica menos congestionada. Aliás, vai rolar o game hoje à noite ou tá tenso por causa da conexão?
-
 Tô dentro! Vou só terminar de comer e entrar no Discord. Umas 21h eu tô on. Vê se não vai atrasar, hein, senhor "meu computador demora pra ligar". Kkkkk
-
 Pode deixar, dessa vez eu sou pontual. Vou só ali ver se o roteador não explodiu de vez e já volto. Até já!
-
 Demorou, valeu!
 Oi! Olá, tudo bem? E aí, cara, beleza?
-
 Opa, tudo certo por aqui. E com você? Cara, não vou nem te falar como foi meu dia hoje, tô só o pó.
-
 Nossa, nem me fala. Segunda-feira já começou querendo me destruir, sério mesmo. O que rolou aí no trampo?
-
 Pô, nem me fala, foi um inferno. Um servidor lá caiu do nada na hora do almoço, ninguém sabia o que tava rolando e o chefe ficou igual um maluco mandando mensagem de 5 em 5 minutos. Parecia que o mundo ia acabar por causa de um banco de dados que ninguém nem acessava.
-
 Caraca, que bizarro. O pessoal é muito emocionado, né? É sempre a mesma história, acham que qualquer problema é o fim do mundo. E você conseguiu resolver ou ficou lá até tarde?
-
 Tive que ficar, né? Tentei de tudo, reiniciei os containers, verifiquei log, fiz reza braba... no fim das contas era um bug idiota no código que alguém subiu na sexta e ninguém testou. Coisa de principiante. Fiquei lá até umas 8 da noite resolvendo isso pra não dar ruim amanhã de novo.
-
 Sério? Que ódio, mano. Odeio quando acontece isso. Sexta-feira o pessoal já tá com a cabeça na lua, sai subindo commit sem nem olhar o que tá fazendo. Imagino o estresse. Mas agora você tá em casa pelo menos?
-
 Tô sim, finalmente. Pedi um lanche agora porque não tinha nada na geladeira. Tô aqui jogado no sofá vendo umas bobagens no YouTube. E você, fez o que? Conseguiu adiantar aquele projeto que tava pendente ou deixou pra lá?
-
 Rapaz, quase que eu desisti. Tentei focar, sentei, abri o notebook, mas a procrastinação bateu forte. Acabei vendo umas séries, limpei a casa inteira... sabe quando você faz tudo menos o que tem que fazer? Pois é, eu hoje. Mas amanhã cedo eu encaro, prometo. Ou não. Sei lá.
-
 Te entendo demais. Às vezes o cérebro trava, né? Não adianta forçar. Amanhã você acorda com mais calma, toma um café reforçado e o código flui. Pelo menos é o que eu gosto de acreditar, né? Haha.
-
 Exato, a esperança é a última que morre! Mas me diz, aquele esquema da gente sair esse fim de semana, vai rolar mesmo? Tava pensando em algum lugar que tenha uma cerveja gelada e não seja aquele barulhento de sempre.
-
 Ah, seria perfeito. Tô precisando muito sair de casa. Conheço um lugar novo perto de casa que abriu tem pouco tempo, dizem que é bem de boa, música ambiente, nada daquela gritaria. O que acha?
-
 Fechou demais. Pode ser sábado então? Não tenho nada pra fazer, só preciso respirar um ar puro e sair desse escritório improvisado que virou meu quarto.
-
 Sábado tá ótimo pra mim. Vou combinar com o pessoal então, vou ver se o outro parceiro lá quer ir também, ele tava querendo sair faz tempo. Depois eu te mando o endereço certinho.
-
 Demorou! Só me avisa antes pra eu não me perder, porque meu senso de direção é nível zero. Se deixar eu vou parar em outra cidade.
-
 Haha pode deixar, eu te mando a localização no GPS. Se você se perder mesmo assim, aí já é caso de estudo clínico.
-
 Pô, sacanagem, hein! Meu senso de direção é artístico, eu diria. Mas relaxa, eu chego. Vai ser bom demais. Agora vou comer meu lanche aqui que tá esfriando. A gente se fala amanhã?
-
 Vai lá, bom lanche! A gente se fala sim, boa noite pra você e tenta descansar, esquece o servidor por umas horas. Valeu!
-
 Valeu, mano! Boa noite!
-Cara, hoje eu tô num dia daqueles. Parece que nada que eu faço dá certo.
-Putz, sinto muito ouvir isso. O que rolou? Quer desabafar?
-Sabe quando você se esforça muito pra alguma coisa e, na hora H, tudo desmorona? Eu tava super animado com a entrega do projeto e meu computador deu tela azul na hora de exportar o arquivo final.
-Caramba, que pesadelo. Eu imagino o desespero. Você conseguiu recuperar o arquivo ou perdeu tudo?
-Recuperei a maior parte, mas perdi quase duas horas de ajuste fino. Tô me sentindo um lixo, parece que eu sou o único responsável pelas coisas darem errado.
-Ei, calma aí. Não começa a se culpar assim. Computador é uma máquina e falha mesmo, não é sua culpa. O importante é que você não perdeu o trabalho todo. Respira, toma uma água. Amanhã você termina isso com a cabeça fresca.
-É... você tem razão. Só precisava colocar isso pra fora. Obrigado por ouvir.
-Tamo junto, sempre que precisar. Relaxa um pouco agora, esquece esse PC.
-Vamos planejar aquela nossa viagem pra praia em dezembro?
-Com certeza! Já tava na hora. Você prefere litoral norte ou sul?
-Eu queria o norte. É mais perto e as praias são mais bonitas pra surfar.
-Boa, concordo. E a hospedagem? Você prefere hotel ou alugar um Airbnb?
-Acho que um Airbnb é melhor. A gente economiza na comida se tiver uma cozinha, né?
-Verdade. E dá pra gente chamar mais uns dois amigos pra dividir o custo.
-Perfeito! Eu faço a lista de quem convidar e você vai dando uma olhada nos preços dos imóveis.
-Fechado. Vamos colocar um orçamento limite de quanto por pessoa?
-Acho que uns 800 reais pra hospedagem e comida tá bom, o que acha?
-Por mim, fechado. Vou começar a pesquisar hoje à noite e te mando o link dos que eu achar mais interessantes.
-Beleza, me manda no WhatsApp que eu dou uma olhada.
-Combinado! Vai ser show.
-Você acha que a automação vai acabar com os empregos de programação daqui a uns anos?
-Olha, acho que "acabar" é muito forte. A automação vai mudar a natureza do trabalho, não eliminar.
-Como assim? Se a IA escreve código mais rápido que eu, por que alguém me contrataria?
-Porque a IA escreve o código, mas ela não tem a visão do negócio. Ela não entende o contexto humano. O programador vai virar mais um "arquiteto de soluções" do que um "digitador de sintaxe".
-Faz sentido... mas o nível de entrada vai ficar muito difícil, né?
-Vai sim. Quem só faz o básico vai sofrer. Mas, por outro lado, vai ficar muito mais fácil criar coisas complexas. A barreira de entrada muda, mas o valor de quem resolve problemas reais aumenta.
-É, talvez você esteja certo. Vamos ter que nos adaptar, não tem jeito.
 Exatamente. O segredo é usar a IA como uma extensão, não como uma substituta.
